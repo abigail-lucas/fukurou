@@ -7,7 +7,9 @@ How to set me up
 ## USEAGE
 How to get me to help you out with what you need
 
-## TODOs
+## Projects
+
+[Fukurou's first steps project](https://github.com/users/lyra-hickory/projects/1/views/1)
 
 ### Functionality related
 
