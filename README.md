@@ -1,7 +1,5 @@
 # Fukurou
-Hello! My name is Fukurou, you can also call me Mimi :) I am a Discord help bot.
-
-For now I am empty, and only exist as a README, soon we will add content to the following sections:
+Hello! My name is Fukurou :) I am a Discord bot ready to help out where I can!
 
 ## SETUP & INSTALLATION
 How to set me up
@@ -10,8 +8,15 @@ How to set me up
 How to get me to help you out with what you need
 
 ## TODOs
-A list of TODOs planned for me
+
+### Functionality related
+
+- [ ] Write up a list of features for Fukurou
+
+### Project related
+- [ ] Add docker-compose
+- [ ] Hosting? CI/CD?
+
 
 ## FEATURE PLANS
 A list of features we're planning on adding to me
-
