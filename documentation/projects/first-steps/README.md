@@ -5,14 +5,10 @@ This project is aimed to establish the minimum functionality for fukurou, our he
 ## Functionality
 What is the functionality we want fukurou to have, broken down into different sections
 
-### Tasks management
-How we want fukurou to handle the tasks
-
-### Rewards management
-How we want fukurou to handle the rewards
-
-### Tracking of tasks and rewards
-How we want fukurou to store and track the tasks and rewards
+### Technical setup
+- [ ] Docker setup
+- [ ] Database setup
+- [ ] Message handler
 
 ## Deployment
 
